@@ -1,4 +1,4 @@
-### Hola a todos 👋 
+### Hola a todos 👋 ![octarun](https://user-images.githubusercontent.com/80855480/176593463-8bdd686c-00cb-4225-a5bb-7f44fabbffc4.gif)
 ### Mi nombre es Brandon soy un estudiante de Ing.Sistemas el cual comparte el gusto de programar como un pasatiempos
 ### me gusta crear proyectos en colaboracion con los demas 👯 para reforzar el uso de git en consola de comandos y mejorar mis conocimientos en este campo.
 ### SKILLS
