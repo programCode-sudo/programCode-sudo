@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola a todos 👋 
+### Mi nombre es Brandon soy un estudiante de Ing.Sistemas el cual comparte el gusto de programar como un pasatiempos
+### me gusta crear proyectos en colaboracion con los demas 👯 para reforzar el uso de git en consola de comandos y mejorar mis 
+### conocimientos en este campo.
+### SKILLS
+### *C#
+### *R 
+### *javascript
+
 
 <!--
 **programCode-sudo/programCode-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
