@@ -5,8 +5,10 @@
 ### *C#
 ### *R 
 ### *javascript
-### *aprendiendo JAVA
-
+### *Angular
+### *JAVA
+### *SpringBoot
+### *Base de datos MySql,PostgreSQL,MongoDB
 
 <!--
 **programCode-sudo/programCode-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
