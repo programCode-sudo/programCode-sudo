@@ -1,9 +1,7 @@
 ### ![octarun (1)](https://user-images.githubusercontent.com/80855480/176593639-35110a35-dadb-4c80-9acb-7537b724b011.gif) 
-# 👋 Hola a todos
+👋 Hola a todos
 # 💫 Acerca de mua:
-Mi nombre es Brandon soy un estudiante de Ing.Sistemas el cual comparte el gusto de programar como un pasatiempos<br>me gusta crear proyectos en colaboracion con los demas 👯 para reforzar el uso de git en consola de comandos y mejorar mis conocimientos en este campo.<br>SKILLS<br>*C#<br>*R<br>*javascript<br>*Angular<br>*JAVA<br>*SpringBoot<br>*Base de datos MySql,PostgreSQL,MongoDB
-
-
+Mi nombre es Brandon soy un apasionado de la Ing.Sistemas el cual comparte el gusto de programar como un pasatiempos<br>me gusta crear proyectos en colaboracion con los demas 👯 para reforzar el uso de git en consola de comandos y mejorar mis conocimientos en este campo
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-jose-monterrosa-bernal-a97082340) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Honest_Gap_4117) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brandonjose2001@hotmail.com) 
 
